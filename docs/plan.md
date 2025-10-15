@@ -8,3 +8,7 @@ Kế hoạch học tập trong 1 tuần:
 - học python (ngày 5)
 - họpython (ngày 6)
 - nghỉ ngơi (ngày 7)
+Kế hoạch nhóm tuần này:
+- Hoàn thành phần Git.
+- Làm báo cáo nhóm.
+- Chuẩn bị thuyết trình.
