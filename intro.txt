@@ -1,5 +1,5 @@
 Giới thiệu bản thân:
-Xin chào, tôi là Huỳnh Quốc Đạt
+Xin chào, tên tôi là Huỳnh Quốc Đạt
 Hiện đang học về Git và quản lý mã nguồn.
 Mục tiêu của tôi là trở thành lập trình viên chuyên nghiệp.
 Tôi thích chia sẻ kiến thức và làm việc nhóm hiệu quả.
