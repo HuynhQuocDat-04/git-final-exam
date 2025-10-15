@@ -1,5 +1,9 @@
 Giới thiệu bản thân:
+<<<<<<< HEAD
 Hello this is HuynhQuocDat
+=======
+Xin chào, tên tôi là Huỳnh Quốc Đạt
+>>>>>>> feature-update
 Hiện đang học về Git và quản lý mã nguồn.
 Mục tiêu của tôi là trở thành lập trình viên chuyên nghiệp.
 Tôi thích chia sẻ kiến thức và làm việc nhóm hiệu quả.
@@ -20,3 +24,5 @@ Kế hoạch học tập:
 3. Làm việc nhóm trên GitHub thường xuyên.
 4. Ghi chú và chụp ảnh minh chứng từng bước.
 5. Học thêm về Git rebase và Git stash.
+
+Conflict resolved on 15/10/2025
