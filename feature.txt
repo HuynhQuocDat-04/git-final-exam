@@ -1,0 +1,5 @@
+Tính năng: Quản lý kế hoạch học tập tự động
+- Cho phép nhập lịch học và mục tiêu
+- Tự động tạo nhắc nhở học tập
+- Ghi lại tiến độ học từng ngày
+- Xuất báo cáo tổng kết tuần
